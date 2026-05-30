@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">lodgic35 LMS Plugins</title>
+  </details>
+  <plugins>
+    <plugin name="StreamWatchdog" version="1.6" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">Stream Watchdog</title>
+      <desc lang="EN">Monitors players and automatically restarts playback if audio stops unexpectedly. Checks internet before recovery and falls back to a favourite radio station if needed.</desc>
+      <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/StreamWatchdog.zip</url>
+      <sha>3c098ee3ef71026c14985404158d5bfd751800d9</sha>
+      <link>https://github.com/lodgic35/lms-plugins</link>
+      <creator>lodgic35</creator>
+    </plugin>
+  </plugins>
+</extensions>
