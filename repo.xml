@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">lodgic35 LMS Plugins</title>
+  </details>
+  <plugins>
+    <plugin name="StreamWatchdog" version="2.0" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">Fancy-Dancy Stream Watchdog</title>
+      <desc lang="EN">Monitors players and automatically restarts playback. Hang/byte stall detection, internet check, recovery fallback, silence timeout, and startup auto-play after power cut.</desc>
+      <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/StreamWatchdog.zip</url>
+      <sha>09e563e14dc1cf7c8d05b765d386904e9aee368c</sha>
+      <link>https://github.com/lodgic35/lms-plugins</link>
+      <creator>lodgic35</creator>
+    </plugin>
+  </plugins>
+</extensions>
