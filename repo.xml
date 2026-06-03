@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">lodgic35 LMS Plugins</title>
+  </details>
+  <plugins>
+    <plugin name="StreamWatchdog" version="2.0" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">Fancy-Dancy Stream Watchdog</title>
+      <desc lang="EN">Monitors players and automatically restarts playback. Hang/byte stall detection, internet check, recovery fallback, silence timeout, and startup auto-play after power cut.</desc>
+      <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/StreamWatchdog.zip</url>
+      <sha>2a6b96cf4ca9c5b58e9e7c7969e75263ff8684f1</sha>
+      <link>https://github.com/lodgic35/lms-plugins</link>
+      <creator>lodgic35</creator>
+    </plugin>
+    <plugin name="VolumeGuard" version="1.0" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">Volume Guard</title>
+      <desc lang="EN">Locks volume to a predefined level on selected players. Toggle on/off from settings.</desc>
+      <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/VolumeGuard.zip</url>
+      <sha>4b9522aa8f512148239d416c97ae1e5002ed2dac</sha>
+      <link>https://github.com/lodgic35/lms-plugins</link>
+      <creator>lodgic35</creator>
+    </plugin>
+    <plugin name="FancyDancySystemGuard" version="1.0" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">Fancy-Dancy System Guard</title>
+      <desc lang="EN">Installs and monitors the LMS process watchdog script on piCorePlayer. Automatically restarts LMS if unresponsive and reboots if restart fails.</desc>
+      <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/FancyDancySystemGuard.zip</url>
+      <sha>d3e483ec507af92d3d0ae1966ff82b2b2ff82f00</sha>
+      <link>https://github.com/lodgic35/lms-plugins</link>
+      <creator>lodgic35</creator>
+    </plugin>
+  </plugins>
+</extensions>
