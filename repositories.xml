@@ -32,7 +32,7 @@
       <title lang="EN">Spotty Capture</title>
       <desc lang="EN">Captures Spotify (Spotty) audio and saves as tagged MP3 files with cover art. Toggle on/off from LMS Settings.</desc>
       <url>https://raw.githubusercontent.com/lodgic35/lms-plugins/main/SpottyCapture.zip</url>
-      <sha>3a0e21529ae8de8a035fe25701b4370917513041</sha>
+      <sha>b2c3c0f6a66c42d0dc579cb9a4048ac81ee12714</sha>
       <link>https://github.com/lodgic35/lms-plugins</link>
       <creator>lodgic35</creator>
     </plugin>
